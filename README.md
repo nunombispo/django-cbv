@@ -1,4 +1,4 @@
-#Django Class-Based Views (CBVs): An Overview and Practical Example
+# Django Class-Based Views (CBVs): An Overview and Practical Example
 
 Django, a high-level Python web framework, encourages rapid development and clean, pragmatic design.
 
